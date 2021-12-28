@@ -1,7 +1,7 @@
 
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/rayner074/jk-filter-bot?style=social)
-<img src="https://img.shields.io/github/forks/DalinMathew/AutoFilterBotV3?style=social"></img>
+<img src="https://img.shields.io/github/forks/rayner074/jk-filter-bot?style=social"></img>
 
 #### Added Features
 * Imdb posters for autofilter.
